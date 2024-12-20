@@ -8,4 +8,4 @@ Tools and technologies I use:
 - Languages: SQL, R, Python.
 - Reporting: Quarto, Excel, PowerPoint.
 - Databases: PostgreSQL, MariaDB.
-- Cloud data warehouses: Google BigQuery, Amazon Redshift.
+- Cloud data warehouses: Google BigQuery, Amazon Redshift, Snowflake.
