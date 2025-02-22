@@ -1,9 +1,7 @@
-Analytics Specialist with a MSc in Industrial Engineering and 6 years of experience in data-driven decision-making. I combine analytics engineering and machine learning to transform data into products that support daily operations.
+Analytics specialist with six years of experience transforming data into solutions that drive decision-making. I am experienced with continuous improvement (kaizen) and Six Sigma, having spearheaded multiple initiatives to improve business processes. I bring expertise from Energy, Education, and Consumer Packaged Goods (CPG), supporting teams locally and globally.
 
-I am also a strong proponent of kaizen (continuous improvement), having spearheaded initiatives to improve business processes using Six Sigma and to promote data literacy. I have experience supporting local and international teams in delivering solutions across various industries, such as Energy, Education, and Food.
-
-Tools and technologies I use:
-- Languages: SQL, R, Python.
-- Reporting: Quarto, Excel, PowerPoint.
-- Databases: PostgreSQL, MariaDB.
-- Cloud data warehouses: Google BigQuery, Amazon Redshift, Snowflake.
+Skills and tools I use:
+- Six Sigma, Predictive modelling, Design of experiments, Visualisation, Data strategy.
+- Tools: SQL, R, Python, git, Quarto, PowerPoint.
+- Databases: PostgreSQL, MariaDB, DuckDB.
+- Data warehouses: Google BigQuery, Amazon Redshift, Snowflake.
