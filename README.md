@@ -3,6 +3,5 @@ Analytics specialist with six years of experience applying statistical methods a
 Skills:
 - Expertise: Analytics engineering, Statistical modelling, Simulation, Decision support.
 - Tools: SQL, R, Python, Tableau, Alteryx. 
-- Databases: PostgreSQL, MariaDB, DuckDB.
-- Data warehouses: Google BigQuery, Snowflake.
+- Data platforms: PostgreSQL, DuckDB, Google BigQuery, Snowflake.
 - Languages: Portuguese (Native), English (Fluent), French (Reading proficiency).
