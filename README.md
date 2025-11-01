@@ -1,7 +1,8 @@
-Analytics specialist with five years of experience transforming data into solutions that drive decision-making. By drawing on my expertise in advanced analytics and continuous improvement, I have supported local and global teams in Energy, Education, and Consumer Packaged Goods (CPG) in executing projects of varied scale and scope.
+Analytics specialist with six years of experience applying statistical methods and data modelling to support decision-making. I have implemented processes, ELT/ETL pipelines, and dashboards for operations and management in Energy, Education, and Consumer Packaged Goods (CPG).
 
-Skills and tools I use:
-- Expertise: Analytics engineering, Applied statistics, Decision support, Six Sigma.
-- Software: SQL, R, Python, Alteryx, Tableau.
-- Databases: PostgreSQL, MariaDB.
+Skills:
+- Expertise: Analytics engineering, Statistical modelling, Simulation, Decision support.
+- Tools: SQL, R, Python, Tableau, Alteryx. 
+- Databases: PostgreSQL, MariaDB, DuckDB.
 - Data warehouses: Google BigQuery, Snowflake.
+- Languages: Portuguese (Native), English (Fluent), French (Reading proficiency).
