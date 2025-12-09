@@ -2,6 +2,6 @@ Analytics specialist with six years of experience applying data modelling and st
 
 Skills:
 - Expertise: Analytics engineering, Statistical programming, Decision support, Simulation.
-- Tools: SQL, R, Python, D3.js, Alteryx, Tableau.
-- Data platforms: PostgreSQL, Google BigQuery, Snowflake.
+- Tools: SQL, R, Python, PySpark, D3.js, Alteryx, Tableau.
+- Data platforms: PostgreSQL, Google BigQuery, Snowflake, Databricks.
 - Languages: Portuguese (Native), English (Fluent), French (Reading proficiency).
