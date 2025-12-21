@@ -1,4 +1,4 @@
-I am an analytics specialist and industrial engineer with six years of experience supporting decision-making in operations across Energy, Education, and Consumer Packaged Goods (CPG) industries. I am skilled in analytics engineering, applied statistics, data visualisation, and continuous improvement. I believe that analytics, just like processes, should be reliable. And reliability comes from smooth operation, and smooth operation is a consequence of deliberate design and planning.
+I am an analytics specialist and industrial engineer with six years of experience supporting decision-making in operations across Energy, Education, and Consumer Packaged Goods (CPG) industries. I am skilled in analytics engineering, applied statistics, data visualisation, and continuous improvement. I believe that analytics should be reliable. Reliability emerges from smooth operation, which is a consequence of deliberate design.
 
 In my current role at Pearson, I lead efforts around data stewardship and governance, and build pipelines to support international teams with product data quality.
 
