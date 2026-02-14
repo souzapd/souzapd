@@ -2,7 +2,7 @@ Analytics specialist with seven years of experience designing analytics systems 
 
 At Pearson, I lead data governance for international markets, building pipelines and dashboards that enable product teams to monitor core product attributes before and after release.
 
-In previous roles, I delivered impact through applied analytics: designed a change-detection heuristic for forecast reviews (processing 15,000 SKUs/min), implemented data quality checks that averted 2,000 support tickets, and ported a simulation model for hydropower demand planning using NumPy.
+In previous roles, I tackled operational problems through applied analytics: built a change-detection heuristic processing 15,000 SKUs/min to assist analysts during forecast reviews, implemented data quality checks that averted 2,000 support tickets, and ported a demand simulation engine in NumPy for production use in a hydropower company.
 
 Skills:
 - Methods: ANOVA, Linear mixed models, Resampling methods, Time series
