@@ -1,4 +1,4 @@
-Analytics specialist with seven years of experience building tools for operations across Energy, Education, and Consumer Packaged Goods (CPG) industries. I specialise in applied statistics, analytics engineering, and operations management.
+Analytics specialist with seven years of experience designing analytics systems for business operations across Energy, Education, and Consumer Packaged Goods (CPG) industries. I specialise in applied statistics, analytics engineering, and operations management.
 
 At Pearson, I lead data governance for international markets, building pipelines and dashboards that enable product teams to monitor core product attributes before and after release.
 
