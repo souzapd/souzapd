@@ -1,8 +1,8 @@
 Analytics specialist with seven years of experience designing analytics systems for business operations across Energy, Education, and Consumer Packaged Goods (CPG) industries. I specialise in applied statistics, analytics engineering, and operations management.
 
-At Pearson, I lead a data governance initiative for international markets, building pipelines and dashboards that enable product teams to monitor core product attributes before and after release.
+At Pearson, I support product master data quality across international markets, building pipelines and dashboards that enable teams in the UK, Canada, Europe, and India to validate product attributes before and after release.
 
-In previous roles, I tackled operational problems through applied analytics: built a change-detection heuristic processing 15,000 SKUs/min to assist analysts during forecast reviews, implemented data quality checks that averted 2,000 support tickets,  ported a demand simulation modules to NumPy for production use at hydropower plants.
+In previous roles, I tackled operational problems through applied analytics: built a change-detection heuristic processing 15,000 SKUs/min to assist analysts during forecast reviews, implemented data quality checks that averted 2,000 support tickets, and ported demand simulation modules to NumPy for production use at hydropower plants.
 
 Skills:
 - Methods: ANOVA, Linear mixed models, Resampling methods, Time series
