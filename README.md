@@ -1,6 +1,6 @@
 Analytics specialist with seven years of experience designing analytics systems for business operations across Energy, Education, and Consumer Packaged Goods (CPG) industries. I specialise in applied statistics, analytics engineering, and operations management.
 
-At Pearson, I designed data governance frameworks for international markets, building ELT pipelines and validation dashboards using BigQuery and Tableau that enable teams across the UK, Canada, Europe, and India to validate product attributes.
+At Pearson, I designed a data governance framework for international markets, building ELT pipelines and validation dashboards using BigQuery and Tableau that enable teams across the UK, Canada, Europe, and India to validate product attributes.
 
 In previous roles, I tackled operational problems through applied analytics: built a change-detection heuristic processing 15,000 SKUs/min to assist analysts during forecast reviews, implemented data quality checks that averted 2,000 support tickets, and ported demand simulation modules to NumPy for production use at hydropower plants.
 
